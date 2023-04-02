@@ -1,0 +1,7 @@
+Ens trobem en el directori FONTS/src/excepcions, en aquest directori trobem les classes de les excepcions implementades:
+-DeleteDocumentException: Arxiu .java on s'implementa la classe DeleteDocumentException.
+-EDocumentException: Arxiu .java on s'implementa la classe EDocumentException.
+-EExpBoolException: Arxiu .java on s'implementa la classe EExpBoolException.
+-ExpBoolNoValidaException: Arxiu .java on s'implementa la classe ExpBoolNoValidaException.
+-FormatInvalid: Arxiu .java on s'implementa la classe FormatInvalid.
+-IDInvalid: Arxiu .java on s'implementa la classe IDInvalid.

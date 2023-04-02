@@ -1,0 +1,6 @@
+Ens trobem en el directori FONTS/src/domini/indexs, en aquest directori trobem les classes indexs implementats:
+-empty-ca-utf8.txt: Arxiu .txt on es troben les stop words del catala.
+-empty-eng-utf8.txt: Arxiu .txt on es troben les stop words de l'angles.
+-empty-sp-utf8.txt: Arxiu .txt on es troben les stop words del castella.
+-IndexExpBooleana: Arxiu .java on s'implementa la classe IndexExpBooleana.
+-IndexParaulaTFIDF: Arxiu .java on s'implementa la classe IndexParaulaTFIDF.

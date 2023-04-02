@@ -1,0 +1,2 @@
+Ens trobem en el directori FONTS/src/presentacio/icons, en aquest directori trobem les imatges .png que utilitzem en la capa de presentació:
+-moreOptions3: Arxiu .png que utilitzzem com a botó d'opcions en la vista ViewPrincipal i ViewGestioExpBool.

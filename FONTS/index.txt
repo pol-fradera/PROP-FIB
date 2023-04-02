@@ -1,0 +1,9 @@
+Ens trobem en el directori FONTS, en aquest directori trobem les classes implementades, el Makefile, i les libreries requerides:
+-Directori lib: Reuneix les biblioteques utilitzades per la part visual de la capa de presentacio.
+-Directori src: En aquest directori trobem les classes implementades.
+-Makefile: fitxer per compilar el programa (nomes a Linux). Opcions del makefile:
+    -make compile: compila el programa en un .jar a ../EXE/
+    -make exec: executa el .jar compilat
+    -make comp_exec_program: compila i executa el programa
+    -make javadoc: genera la documentacio en javadoc
+    -make clean: borra la carpeta ../EXE/

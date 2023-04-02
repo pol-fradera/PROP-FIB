@@ -1,0 +1,6 @@
+Ens trobem en el directori FONTS/src/domini/datatypes, en aquest directori trobem les classes datatypes implementades:
+-ExpressioBooleana: Arxiu .java on s'implementa la classe ExpressioBooleana.
+-Tree: Arxiu .java on s'implementa la classe Tree.
+-TreeNode: Arxiu .java on s'implementa la classe TreeNode.
+-Trie: Arxiu .java on s'implementa la classe Trie.
+-Utility: Arxiu .java on s'implementa la classe Utility.

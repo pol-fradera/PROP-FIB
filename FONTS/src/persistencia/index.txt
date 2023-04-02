@@ -1,0 +1,5 @@
+Ens trobem en el directori FONTS/src/persistencia, en aquest directori trobem les classes de la capa de persistencia implementades:
+-CtrlPersistencia: Arxiu .java on s'implementa la classe CtrlPersistencia.
+-GestorDocuments: Arxiu .java on s'implementa la classe GestorDocuments.
+-GestorExpBooleanes: Arxiu .java on s'implementa la classe GestorExpBooleanes.
+-GestorIndexs: Arxiu .java on s'implementa la classe GestorIndexs.

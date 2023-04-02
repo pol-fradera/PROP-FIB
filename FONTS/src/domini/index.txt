@@ -1,0 +1,4 @@
+Ens trobem en el directori FONTS/src/domini, en aquest directori trobem les classes implementades de la capa de domini:
+-Directori controladores: Directori on es troben les classes controladores implementades.
+-Directori datatypes: Directori on es troben les classes datatypes implementades.
+-Directori indexs: Directori on es troben les classes indexs implementats.

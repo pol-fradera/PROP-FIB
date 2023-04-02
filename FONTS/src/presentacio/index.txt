@@ -1,0 +1,9 @@
+Ens trobem en el directori FONTS/src/presentacio, en aquest directori trobem les classes de la capa de presentació implementades:
+-icons: Carpeta on es troben els icons que utilitzem en la capa de presentacio.
+-CtrlPresentacio: Arxiu .java on s'implementa la classe CtrlPresentacio.
+-GestioCell: Arxiu .java on s'implementa la classe GestioCell.
+-ShowingDocsTable: Arxiu .java on s'implementa la classe ShowingDocsTable.
+-ViewMostrarCont: Arxiu .java on s'implementa la classe ViewMostrarCont.
+-ViewEditar: Arxiu .java on s'implementa la classe ViewEditar.
+-ViewGestioExpBool: Arxiu .java on s'implementa la classe ViewGestioExpBool.
+-ViewPrincipal: Arxiu .java on s'implementa la classe ViewPrincipal.

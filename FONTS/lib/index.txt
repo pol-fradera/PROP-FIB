@@ -1,0 +1,2 @@
+Ens trobem al directori FONTS/lib
+Aqui trobem les llibreries pel funcionament del JUnit i JGoodies.

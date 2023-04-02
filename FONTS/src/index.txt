@@ -1,0 +1,6 @@
+Ens trobem en el directori FONTS/src, en aquest directori trobem les classes implementades fins ara, els tests d'aquestes i el driver del nostre controlador de domini, incloent el stub utilitzat.
+-Directori domini: En aquest directori trobem les classes implementades de la capa de domini.
+-Directori excepcions: En aquest directori trobem les excepcions del nostre programa.
+-Directori persistencia: En aquest directori trobem les classes de la capa de persistencia.
+-Directori presentacio: En aquest directori trobem les classes de la capa de presentacio.
+-Directori transversal: En aquest directori trobem les classes implementades fins ara, de la capa transversal.

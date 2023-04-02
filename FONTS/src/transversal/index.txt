@@ -1,0 +1,2 @@
+Ens trobem en el directori FONTS/src/transversal, en aquest directori trobem les classes de la capa transversal implementades:
+-Pair: Arxiu .java on s'implementa la classe Pair.
